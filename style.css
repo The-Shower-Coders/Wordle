@@ -38,7 +38,7 @@ body {
     width: 5vw;
     text-align: center;
     color: black;
-    font-size: 35px;
+    font-size: 20px;
     cursor: pointer;
 }
 
@@ -56,7 +56,7 @@ input:read-only {
 #msgbox {
     display: none;
     width: 80vw;
-    height: 100px;
+    height: 140px;
     background-color: aliceblue;
     text-align: center;
     position: absolute;
